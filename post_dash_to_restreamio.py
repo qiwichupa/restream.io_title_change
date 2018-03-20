@@ -5,7 +5,7 @@ If you need to change title (dash) on restream.io automatically, this script wil
 You must create 'chrome_home_dir' and run this script with --manual key, 
 it will opened chrome without virtual display and let you authorize 
 on restream.io. It is neccessary because of captcha, and you will be forced
-to repeat this procedure frome time to time =(. But after that you can run
+to repeat this procedure from time to time =(. But after that you can run
 $ scriptname.py "new title"
 and "new title" will be applied to your stream.
 
