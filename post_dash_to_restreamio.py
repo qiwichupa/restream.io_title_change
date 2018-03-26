@@ -13,6 +13,8 @@ REQUIREMENTS:
 modules: pyvirtualdisplay, selenium
 soft: chromium-chromedriver, chromium-browser, xvfb
 
+ver 0.01
+
 '''
 
 
